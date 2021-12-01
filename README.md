@@ -1,2 +1,3 @@
-# envy-code-r
-Envy Code R font
+# Envy Code R
+
+Source code for the Envy Code R font.
