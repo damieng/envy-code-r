@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SF040000" format="2">
+  <advance width="1103"/>
+  <unicode hex="2518"/>
+  <outline>
+    <contour>
+      <point x="0" y="790" type="line" name="dv01"/>
+      <point x="474" y="790" type="line"/>
+      <point x="474" y="2054" type="line" name="dh01"/>
+      <point x="632" y="2054" type="line" name="dh02"/>
+      <point x="632" y="632" type="line"/>
+      <point x="0" y="632" type="line" name="ah01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignt</string>
+      <key>point</key>
+      <string>dh01</string>
+      <key>zone</key>
+      <string>t: 4</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>ah01</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh01</string>
+      <key>point2</key>
+      <string>dh02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="1103"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="727" y="1264" type="line"/>
+      <point x="790" y="1422" type="line"/>
+      <point x="948" y="1422" type="line"/>
+      <point x="885" y="1264" type="line" name="mh01"/>
+      <point x="379" y="-1" type="line"/>
+      <point x="316" y="-158" type="line"/>
+      <point x="158" y="-158" type="line"/>
+      <point x="222" y="2" type="line" name="mh02"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="2044"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh01</string>
+      <key>delta</key>
+      <integer>3</integer>
+      <key>ppm1</key>
+      <integer>13</integer>
+      <key>ppm2</key>
+      <integer>13</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh02</string>
+      <key>delta</key>
+      <integer>-3</integer>
+      <key>ppm1</key>
+      <integer>13</integer>
+      <key>ppm2</key>
+      <integer>13</integer>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

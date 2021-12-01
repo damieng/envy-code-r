@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii00208" format="2">
+  <advance width="1103"/>
+  <outline>
+    <contour>
+      <point x="0" y="475" type="line"/>
+      <point x="0" y="631" type="line"/>
+      <point x="1106" y="631" type="line"/>
+      <point x="1106" y="475" type="line"/>
+      <point x="791" y="475" type="line"/>
+    </contour>
+  </outline>
+</glyph>

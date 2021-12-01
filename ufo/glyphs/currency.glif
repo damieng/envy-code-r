@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="2">
+  <advance width="1103"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="1028" y="928" type="line"/>
+      <point x="877" y="777" type="line"/>
+      <point x="910" y="729"/>
+      <point x="948" y="616"/>
+      <point x="948" y="553" type="qcurve" name="dh04"/>
+      <point x="948" y="490"/>
+      <point x="910" y="376"/>
+      <point x="877" y="328" type="qcurve"/>
+      <point x="1028" y="178" type="line"/>
+      <point x="928" y="78" type="line"/>
+      <point x="777" y="228" type="line"/>
+      <point x="729" y="195"/>
+      <point x="616" y="158"/>
+      <point x="553" y="158" type="qcurve" name="dv04"/>
+      <point x="490" y="158"/>
+      <point x="376" y="195"/>
+      <point x="328" y="228" type="qcurve"/>
+      <point x="178" y="78" type="line"/>
+      <point x="78" y="178" type="line"/>
+      <point x="228" y="328" type="line"/>
+      <point x="195" y="376"/>
+      <point x="158" y="490"/>
+      <point x="158" y="553" type="qcurve" name="dh02"/>
+      <point x="158" y="616"/>
+      <point x="195" y="729"/>
+      <point x="228" y="777" type="qcurve"/>
+      <point x="78" y="928" type="line"/>
+      <point x="178" y="1028" type="line"/>
+      <point x="328" y="877" type="line"/>
+      <point x="376" y="910"/>
+      <point x="490" y="948"/>
+      <point x="553" y="948" type="qcurve" name="dv02"/>
+      <point x="616" y="948"/>
+      <point x="729" y="910"/>
+      <point x="777" y="877" type="qcurve"/>
+      <point x="928" y="1028" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="553" type="qcurve" name="dh01"/>
+      <point x="316" y="504"/>
+      <point x="353" y="418"/>
+      <point x="418" y="353"/>
+      <point x="504" y="316"/>
+      <point x="553" y="316" type="qcurve" name="dv03"/>
+      <point x="602" y="316"/>
+      <point x="688" y="353"/>
+      <point x="753" y="418"/>
+      <point x="790" y="504"/>
+      <point x="790" y="553" type="qcurve" name="dh03"/>
+      <point x="790" y="602"/>
+      <point x="753" y="688"/>
+      <point x="688" y="753"/>
+      <point x="602" y="790"/>
+      <point x="553" y="790" type="qcurve" name="dv01"/>
+      <point x="504" y="790"/>
+      <point x="418" y="753"/>
+      <point x="353" y="688"/>
+      <point x="316" y="602"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>dv02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv03</string>
+      <key>point2</key>
+      <string>dv04</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh01</string>
+      <key>point2</key>
+      <string>dh02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh03</string>
+      <key>point2</key>
+      <string>dh04</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

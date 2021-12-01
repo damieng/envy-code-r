@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagrt" format="2">
+  <advance width="1103"/>
+  <unicode hex="25BA"/>
+  <outline>
+    <contour>
+      <point x="948" y="711" type="line" name="iv01"/>
+      <point x="158" y="316" type="line" name="iv02"/>
+      <point x="158" y="1106" type="line" name="ah01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>iv01</string>
+      <key>point1</key>
+      <string>ah01</string>
+      <key>point2</key>
+      <string>iv02</string>
+      <key>align</key>
+      <string>right</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

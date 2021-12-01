@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleftsuperior" format="2">
+  <advance width="1103"/>
+  <unicode hex="207D"/>
+  <outline>
+    <component base="parenleftinferior" yOffset="948"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignt</string>
+      <key>point</key>
+      <string>lsb</string>
+      <key>zone</key>
+      <string>t: 1</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

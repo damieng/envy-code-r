@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagdn" format="2">
+  <advance width="1103"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <component base="triagup" yScale="-0.999878" yOffset="1422"/>
+  </outline>
+</glyph>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2318" format="2">
+  <advance width="1103"/>
+  <unicode hex="2318"/>
+  <outline>
+    <contour>
+      <point x="237" y="790" type="line"/>
+      <point x="188" y="790"/>
+      <point x="102" y="827"/>
+      <point x="37" y="892"/>
+      <point x="0" y="978"/>
+      <point x="0" y="1027" type="qcurve"/>
+      <point x="0" y="1076"/>
+      <point x="37" y="1162"/>
+      <point x="102" y="1227"/>
+      <point x="188" y="1264"/>
+      <point x="237" y="1264" type="qcurve" name="sv03"/>
+      <point x="286" y="1264"/>
+      <point x="372" y="1227"/>
+      <point x="437" y="1162"/>
+      <point x="474" y="1076"/>
+      <point x="474" y="1027" type="qcurve"/>
+      <point x="474" y="948" type="line" name="sv01"/>
+      <point x="632" y="948" type="line"/>
+      <point x="632" y="1027" type="line"/>
+      <point x="632" y="1076"/>
+      <point x="669" y="1162"/>
+      <point x="734" y="1227"/>
+      <point x="820" y="1264"/>
+      <point x="869" y="1264" type="qcurve" name="sv04"/>
+      <point x="918" y="1264"/>
+      <point x="1004" y="1227"/>
+      <point x="1069" y="1162"/>
+      <point x="1106" y="1076"/>
+      <point x="1106" y="1027" type="qcurve"/>
+      <point x="1106" y="978"/>
+      <point x="1069" y="892"/>
+      <point x="1004" y="827"/>
+      <point x="918" y="790"/>
+      <point x="869" y="790" type="qcurve"/>
+      <point x="790" y="790" type="line" name="sv05"/>
+      <point x="790" y="632" type="line" name="sv06"/>
+      <point x="869" y="632" type="line"/>
+      <point x="918" y="632"/>
+      <point x="1004" y="595"/>
+      <point x="1069" y="530"/>
+      <point x="1106" y="444"/>
+      <point x="1106" y="395" type="qcurve"/>
+      <point x="1106" y="346"/>
+      <point x="1069" y="260"/>
+      <point x="1004" y="195"/>
+      <point x="918" y="158"/>
+      <point x="869" y="158" type="qcurve" name="sv10"/>
+      <point x="820" y="158"/>
+      <point x="734" y="195"/>
+      <point x="669" y="260"/>
+      <point x="632" y="346"/>
+      <point x="632" y="395" type="qcurve"/>
+      <point x="632" y="474" type="line"/>
+      <point x="474" y="474" type="line" name="sv07"/>
+      <point x="474" y="395" type="line"/>
+      <point x="474" y="346"/>
+      <point x="437" y="260"/>
+      <point x="372" y="195"/>
+      <point x="286" y="158"/>
+      <point x="237" y="158" type="qcurve" name="sv09"/>
+      <point x="188" y="158"/>
+      <point x="102" y="195"/>
+      <point x="37" y="260"/>
+      <point x="0" y="346"/>
+      <point x="0" y="395" type="qcurve"/>
+      <point x="0" y="444"/>
+      <point x="37" y="530"/>
+      <point x="102" y="595"/>
+      <point x="188" y="632"/>
+      <point x="237" y="632" type="qcurve"/>
+      <point x="316" y="632" type="line" name="sv11"/>
+      <point x="316" y="790" type="line" name="sv12"/>
+    </contour>
+    <contour>
+      <point x="632" y="632" type="line"/>
+      <point x="632" y="790" type="line"/>
+      <point x="474" y="790" type="line" name="dv02"/>
+      <point x="474" y="632" type="line" name="dv01"/>
+    </contour>
+    <contour>
+      <point x="237" y="474" type="line"/>
+      <point x="204" y="474"/>
+      <point x="158" y="428"/>
+      <point x="158" y="395" type="qcurve"/>
+      <point x="158" y="362"/>
+      <point x="204" y="316"/>
+      <point x="237" y="316" type="qcurve" name="sv08"/>
+      <point x="270" y="316"/>
+      <point x="316" y="362"/>
+      <point x="316" y="395" type="qcurve"/>
+      <point x="316" y="474" type="line" name="sv13"/>
+    </contour>
+    <contour>
+      <point x="158" y="1027" type="qcurve"/>
+      <point x="158" y="994"/>
+      <point x="204" y="948"/>
+      <point x="237" y="948" type="qcurve"/>
+      <point x="316" y="948" type="line" name="sv14"/>
+      <point x="316" y="1027" type="line"/>
+      <point x="316" y="1060"/>
+      <point x="270" y="1106"/>
+      <point x="237" y="1106" type="qcurve" name="sv02"/>
+      <point x="204" y="1106"/>
+      <point x="158" y="1060"/>
+    </contour>
+    <contour>
+      <point x="948" y="395" type="qcurve"/>
+      <point x="948" y="428"/>
+      <point x="902" y="474"/>
+      <point x="869" y="474" type="qcurve"/>
+      <point x="790" y="474" type="line" name="sv15"/>
+      <point x="790" y="395" type="line"/>
+      <point x="790" y="362"/>
+      <point x="836" y="316"/>
+      <point x="869" y="316" type="qcurve" name="sv16"/>
+      <point x="902" y="316"/>
+      <point x="948" y="362"/>
+    </contour>
+    <contour>
+      <point x="790" y="948" type="line" name="sv17"/>
+      <point x="869" y="948" type="line"/>
+      <point x="902" y="948"/>
+      <point x="948" y="994"/>
+      <point x="948" y="1027" type="qcurve"/>
+      <point x="948" y="1060"/>
+      <point x="902" y="1106"/>
+      <point x="869" y="1106" type="qcurve" name="sv18"/>
+      <point x="836" y="1106"/>
+      <point x="790" y="1060"/>
+      <point x="790" y="1027" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>dv02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv02</string>
+      <key>point2</key>
+      <string>sv01</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv01</string>
+      <key>point2</key>
+      <string>sv02</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv02</string>
+      <key>point2</key>
+      <string>sv03</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv03</string>
+      <key>point2</key>
+      <string>sv04</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv02</string>
+      <key>point2</key>
+      <string>sv05</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>sv06</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>sv07</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv07</string>
+      <key>point2</key>
+      <string>sv08</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv08</string>
+      <key>point2</key>
+      <string>sv09</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv09</string>
+      <key>point2</key>
+      <string>sv10</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>sv11</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv02</string>
+      <key>point2</key>
+      <string>sv12</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv07</string>
+      <key>point2</key>
+      <string>sv13</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv01</string>
+      <key>point2</key>
+      <string>sv14</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv07</string>
+      <key>point2</key>
+      <string>sv15</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv08</string>
+      <key>point2</key>
+      <string>sv16</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv01</string>
+      <key>point2</key>
+      <string>sv17</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>sv02</string>
+      <key>point2</key>
+      <string>sv18</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

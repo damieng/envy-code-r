@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="1103"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="394" y="632" type="qcurve" name="dh02"/>
+      <point x="394" y="498"/>
+      <point x="441" y="257"/>
+      <point x="525" y="59"/>
+      <point x="641" y="-86"/>
+      <point x="710" y="-123" type="qcurve" name="ah01"/>
+      <point x="710" y="-305" type="line" name="dv02"/>
+      <point x="641" y="-290"/>
+      <point x="517" y="-208"/>
+      <point x="412" y="-82"/>
+      <point x="327" y="84"/>
+      <point x="268" y="282"/>
+      <point x="236" y="509"/>
+      <point x="236" y="632" type="qcurve" name="dh01"/>
+      <point x="236" y="817"/>
+      <point x="307" y="1139"/>
+      <point x="433" y="1387"/>
+      <point x="607" y="1546"/>
+      <point x="710" y="1569" type="qcurve" name="dv01"/>
+      <point x="710" y="1387" type="line" name="sh01"/>
+      <point x="641" y="1350"/>
+      <point x="525" y="1204"/>
+      <point x="441" y="1006"/>
+      <point x="394" y="765"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>sh01</string>
+      <key>point2</key>
+      <string>dv01</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>ah01</string>
+      <key>point2</key>
+      <string>dv02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignh</string>
+      <key>point</key>
+      <string>ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh01</string>
+      <key>point2</key>
+      <string>dh02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>ah01</string>
+      <key>point2</key>
+      <string>sh01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

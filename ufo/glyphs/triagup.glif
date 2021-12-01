@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagup" format="2">
+  <advance width="1103"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="553" y="1106" type="line" name="ih01"/>
+      <point x="948" y="316" type="line" name="ih03"/>
+      <point x="158" y="316" type="line" name="ih02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>ih02</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolateh</string>
+      <key>point</key>
+      <string>ih01</string>
+      <key>point1</key>
+      <string>ih02</string>
+      <key>point2</key>
+      <string>ih03</string>
+      <key>align</key>
+      <string>right</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+  <advance width="1103"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="158" y="1422" type="line" name="dh01"/>
+      <point x="553" y="1422" type="line" name="mh01"/>
+      <point x="608" y="1422"/>
+      <point x="709" y="1382"/>
+      <point x="797" y="1313"/>
+      <point x="869" y="1221"/>
+      <point x="920" y="1116"/>
+      <point x="948" y="1003"/>
+      <point x="948" y="948" type="qcurve" name="dh04"/>
+      <point x="948" y="474" type="line"/>
+      <point x="948" y="419"/>
+      <point x="920" y="306"/>
+      <point x="869" y="201"/>
+      <point x="797" y="109"/>
+      <point x="709" y="40"/>
+      <point x="608" y="0"/>
+      <point x="553" y="0" type="qcurve" name="mh02"/>
+      <point x="158" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="158" type="line" name="mh03"/>
+      <point x="602" y="158"/>
+      <point x="688" y="220"/>
+      <point x="753" y="314"/>
+      <point x="790" y="425"/>
+      <point x="790" y="474" type="qcurve"/>
+      <point x="790" y="948" type="line" name="dh03"/>
+      <point x="790" y="997"/>
+      <point x="753" y="1108"/>
+      <point x="688" y="1202"/>
+      <point x="602" y="1264"/>
+      <point x="553" y="1264" type="qcurve" name="mh04"/>
+      <point x="316" y="1264" type="line" name="dh02"/>
+      <point x="316" y="158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignt</string>
+      <key>point</key>
+      <string>mh01</string>
+      <key>zone</key>
+      <string>t: 3</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>mh02</string>
+      <key>zone</key>
+      <string>b: 0</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>mh02</string>
+      <key>point2</key>
+      <string>mh03</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>mh01</string>
+      <key>point2</key>
+      <string>mh04</string>
+      <key>stem</key>
+      <string>158</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh01</string>
+      <key>point2</key>
+      <string>dh02</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>dh03</string>
+      <key>point2</key>
+      <string>dh04</string>
+      <key>stem</key>
+      <string>158</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh01</string>
+      <key>delta</key>
+      <integer>-7</integer>
+      <key>ppm1</key>
+      <integer>13</integer>
+      <key>ppm2</key>
+      <integer>13</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh02</string>
+      <key>delta</key>
+      <integer>-7</integer>
+      <key>ppm1</key>
+      <integer>13</integer>
+      <key>ppm2</key>
+      <integer>13</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh03</string>
+      <key>delta</key>
+      <integer>4</integer>
+      <key>ppm1</key>
+      <integer>12</integer>
+      <key>ppm2</key>
+      <integer>12</integer>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>mdeltah</string>
+      <key>point</key>
+      <string>mh04</string>
+      <key>delta</key>
+      <integer>4</integer>
+      <key>ppm1</key>
+      <integer>12</integer>
+      <key>ppm2</key>
+      <integer>12</integer>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
