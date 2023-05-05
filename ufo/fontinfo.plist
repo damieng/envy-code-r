@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1422</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2006-2009 by Envy Technologies Limited. All rights reserved.</string>
+  <string>Copyright (c) 2006-2023 by Damien Guard. All rights reserved.</string>
   <key>descender</key>
   <integer>-474</integer>
   <key>familyName</key>
@@ -60,7 +60,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2006-2009 by Envy Technologies Limited. All rights reserved.</string>
+  <string>Copyright (c) 2006-2023 by Damien Guard. All rights reserved.</string>
   <key>openTypeNameDesigner</key>
   <string>Damien Guard</string>
   <key>openTypeNameDesignerURL</key>
